@@ -42,7 +42,7 @@
 
 2️⃣**Install dependencies:**
 
-*pip install pandas plotly**
+*pip install pandas plotly*
 
 3️⃣**Run the Jupyter Notebook and explore insights!**
 
