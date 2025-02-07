@@ -36,15 +36,15 @@
 
 ### 🏁 Getting Started
 
-**Clone the repository:**
+1️⃣ **Clone the repository:**
 
 *git clone https://github.com/yourusername/sales-profit-dashboard.git**
 
-**Install dependencies:**
+2️⃣**Install dependencies:**
 
 *pip install pandas plotly**
 
-Run the Jupyter Notebook and explore insights!
+3️⃣**Run the Jupyter Notebook and explore insights!**
 
 ### 🏆 Output
 
