@@ -51,6 +51,7 @@
 Interactive visualizations saved as HTML files.
 
 Key insights for business strategy and optimization.
+
 ![Sales Analysis By Category](https://github.com/user-attachments/assets/5d9f634f-6a54-41a6-844b-0aaf97d39fae)
 ![Sales Profit Analysis By Customer Segment](https://github.com/user-attachments/assets/537554a1-ffbc-47a0-a750-101d554f059f)
 
