@@ -38,7 +38,7 @@
 
 1️⃣ **Clone the repository:**
 
-*git clone https://github.com/yourusername/sales-profit-dashboard.git**
+*git clone https://github.com/ShobhithaBK/sales-profit-dashboard.git**
 
 2️⃣**Install dependencies:**
 
