@@ -36,11 +36,11 @@
 
 ### 🏁 Getting Started
 
-Clone the repository:
+**Clone the repository:**
 
 *git clone https://github.com/yourusername/sales-profit-dashboard.git**
 
-Install dependencies:
+**Install dependencies:**
 
 *pip install pandas plotly**
 
